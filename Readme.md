@@ -1,0 +1,1 @@
+python3 update_ids.py fragment.html "products(MAGAZINprofkos.ru-EVE)_2025-04-19_utf-8.csv"
